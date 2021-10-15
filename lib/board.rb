@@ -2,6 +2,6 @@
 
 class Board
 
-  @layout = ""
+  @layout = "1"
 
 end
